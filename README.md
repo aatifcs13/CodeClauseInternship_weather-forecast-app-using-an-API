@@ -1,0 +1,1 @@
+# CodeClauseInternship_weather-forecast-app-using-an-API
